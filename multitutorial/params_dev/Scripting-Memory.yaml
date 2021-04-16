@@ -1,0 +1,7 @@
+scriptingMemory:
+  - header:
+      name: dev
+    values:
+      $chatid_default: johnny@gmail.com
+      $chatid_special: 4542343434343
+      $name_default: Johnny
