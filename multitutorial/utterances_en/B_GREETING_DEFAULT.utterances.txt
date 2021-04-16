@@ -1,0 +1,2 @@
+B_GREETING_DEFAULT
+Hello $name_default, How can I help ?

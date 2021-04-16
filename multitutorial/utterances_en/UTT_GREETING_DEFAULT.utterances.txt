@@ -1,0 +1,2 @@
+UTT_GREETING_DEFAULT
+Chatid $chatid_default {"testId":"QA-$testcasename","testType":"regressionTest"}
